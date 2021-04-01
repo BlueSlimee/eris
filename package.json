@@ -48,7 +48,7 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
-    "eris": "^0.11.2"
+    "eris": "github:abalabahaha/eris#dev"
   },
   "files": [
     "dist",
